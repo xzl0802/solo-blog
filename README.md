@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.xzl0802.top:8080/my-github-repos)
 * [世界，你好！](http://www.xzl0802.top:8080/hello-solo)
 
 
